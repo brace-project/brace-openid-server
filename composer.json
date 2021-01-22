@@ -1,0 +1,28 @@
+{
+  "name": "brace/openid-server",
+  "description": "OAuth2 OpenID Connect server library",
+  "type": "library",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Matthias Leuffen",
+      "email": "matthias@leuffen.de"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kick\\": "src/"
+    },
+    "files": [
+    ]
+  },
+  "require": {
+    "php": ">=7.1"
+  },
+  "bin": [
+  ],
+  "require-dev": {
+    "phore/tester": "*",
+    "phore/system": "*"
+  }
+}

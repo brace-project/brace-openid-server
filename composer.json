@@ -1,5 +1,5 @@
 {
-  "name": "brace/openid-server",
+  "name": "brace/app-openid-server",
   "description": "OAuth2 OpenID Connect server library",
   "type": "library",
   "license": "mit",
